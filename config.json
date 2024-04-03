@@ -8,7 +8,7 @@
     "port": 27017,
     "user": "lihao",
     "pass": "p081742lh",
-    "authSource": "true"
+    "authSource": false
   },
   "mail": {
     "enable": true,
